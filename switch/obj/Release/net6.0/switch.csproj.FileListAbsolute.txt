@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\switch\bin\Release\net6.0\switch.exe
+C:\Users\TRA\Desktop\code-TRA\switch\bin\Release\net6.0\switch.deps.json
+C:\Users\TRA\Desktop\code-TRA\switch\bin\Release\net6.0\switch.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\switch\bin\Release\net6.0\switch.dll
+C:\Users\TRA\Desktop\code-TRA\switch\bin\Release\net6.0\switch.pdb
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.dll
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\refint\switch.dll
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.pdb
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\switch.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\switch\obj\Release\net6.0\ref\switch.dll

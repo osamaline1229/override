@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\swap.program\bin\Debug\net6.0\swap.program.exe
+C:\Users\TRA\Desktop\code-TRA\swap.program\bin\Debug\net6.0\swap.program.deps.json
+C:\Users\TRA\Desktop\code-TRA\swap.program\bin\Debug\net6.0\swap.program.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\swap.program\bin\Debug\net6.0\swap.program.dll
+C:\Users\TRA\Desktop\code-TRA\swap.program\bin\Debug\net6.0\swap.program.pdb
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.dll
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\refint\swap.program.dll
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.pdb
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\swap.program.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\swap.program\obj\Debug\net6.0\ref\swap.program.dll

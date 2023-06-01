@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\fith-project\bin\Debug\net6.0\fith-project.exe
+C:\Users\TRA\Desktop\code-TRA\fith-project\bin\Debug\net6.0\fith-project.deps.json
+C:\Users\TRA\Desktop\code-TRA\fith-project\bin\Debug\net6.0\fith-project.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\fith-project\bin\Debug\net6.0\fith-project.dll
+C:\Users\TRA\Desktop\code-TRA\fith-project\bin\Debug\net6.0\fith-project.pdb
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.dll
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\refint\fith-project.dll
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.pdb
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\fith-project.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\fith-project\obj\Debug\net6.0\ref\fith-project.dll
