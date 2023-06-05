@@ -15,10 +15,10 @@
             i = a;
             
             i = a - 1;
-            int k = a * i;
+            
             ///errekjerngjflkerjger
            
         } while (a > 0);
-        Console.WriteLine(k);
+        Console.WriteLine();
     }
 }
