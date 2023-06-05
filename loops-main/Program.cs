@@ -5,16 +5,20 @@
         Console.Write("Enter the value of  factorial : ");
         int a = Convert.ToInt32(Console.ReadLine());
         int i;
-        int k = 1;
+        int k;
         
         
-        for (i = 1; i <= a; i++) 
+        do
         {
             
-            k = k *i;
+            a = a - 1;
+            i = a;
+            
+            i = a - 1;
+            
+            ///errekjerngjflkerjger
            
-           
-        } 
-        Console.WriteLine(k);
+        } while (a > 0);
+        Console.WriteLine();
     }
 }
