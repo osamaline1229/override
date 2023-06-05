@@ -1,6 +1,4 @@
-﻿using System.Transactions;
-
-internal class Program
+﻿internal class Program
 {
     private static void Main(string[] args)
     {
