@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\TRA\Desktop\code-TRA\loops-main\if-statment.txt" Link="if-statment.txt" />
     <Compile Include="if-statment.txt" />
   </ItemGroup>
 
