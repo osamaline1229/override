@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\arrays-main\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\arrays-main\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\TRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\arrays-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TRA\\AppData\\Roaming\\NuGet\\NuGet.Config",

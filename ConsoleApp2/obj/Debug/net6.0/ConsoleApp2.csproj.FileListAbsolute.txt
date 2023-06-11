@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

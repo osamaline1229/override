@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\TRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\TRA\\Desktop\\code-TRA\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
