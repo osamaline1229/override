@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Security.Cryptography.X509Certificates;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -59,5 +61,16 @@
             
         //}
         //Console.WriteLine("Even Sum: " + evenSum + " Odd Sum: " + oddSum);
+
+        /////////////////////////////////////////////////////////////////////////////
+        
+        Public static int FibonacciSeries(int n)
+        {
+            if (n == 0 || n == 1) retern n;
+            return FibonacciSeries(n - 1) + FibonacciSeries(n - 2);
+            
+        }
+
+
     }
 }
