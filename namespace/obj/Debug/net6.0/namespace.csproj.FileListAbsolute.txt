@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\namespace\bin\Debug\net6.0\namespace.exe
+C:\Users\TRA\Desktop\code-TRA\namespace\bin\Debug\net6.0\namespace.deps.json
+C:\Users\TRA\Desktop\code-TRA\namespace\bin\Debug\net6.0\namespace.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\namespace\bin\Debug\net6.0\namespace.dll
+C:\Users\TRA\Desktop\code-TRA\namespace\bin\Debug\net6.0\namespace.pdb
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.dll
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\refint\namespace.dll
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.pdb
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\namespace.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\namespace\obj\Debug\net6.0\ref\namespace.dll
