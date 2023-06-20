@@ -4,13 +4,16 @@ namespace Inheritance
 {
     internal class Program
     {
-        private static void Main(string[] args)
+         static void Main(string[] args)
         {
             Dog d = new Dog("Luna", 4, "Havenese", "Brrr!!!");
-            d.dosomething();
-            d.makesound();
+            d.makeNoise();
+            d.Eat();
+            Console.WriteLine("----------------");
 
-            Console.WriteLine("Hello");
+            Cat T = new Cat("Luna", 4, "Havenese", "Brrr!!!");
+            T.makeNoise();
+            T.Eat();
         }
     }
 
