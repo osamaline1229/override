@@ -1,0 +1,5 @@
+C:\Users\TRA\Desktop\code-TRA\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
