@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Rectangle : Ishape
-{
-//    private double lenght;
+//public class Rectangle : Ishape
+//{
+////    private double lenght;
 //    private double width;
 
 //    public Rectangle(double lenght, double width)
@@ -30,25 +30,43 @@ public class Rectangle : Ishape
 //{
 //    private 
 
-    public double calculateArea()
-    {
-        return lenght;
-    }
-    public int CompareTo(Square? other)
-    {
-        if (other == null) { return 1; }
+    //public double calculateArea()
+    //{
+    //    return lenght;
+    //}
+    //public int CompareTo(Square? other)
+    //{
+    //    if (other == null) { return 1; }
 
-        if (this.lenght > other.lenght)
-        {
-            return 1;
-        }
-        else if(this.lenght < other.lenght)
-        {
-            return -1;
-        }
-        else
-        {
-            return 0;
-        }
+    //    if (this.lenght > other.lenght)
+    //    {
+    //        return 1;
+    //    }
+    //    else if(this.lenght < other.lenght)
+    //    {
+    //        return -1;
+    //    }
+    //    else
+    //    {
+    //        return 0;
+    //    }
+    //}
+
+
+//}
+
+internal class person
+{
+    string name;
+    readonly string email;
+    int age;
+    const int abc = 5;
+
+    public person(string name, string username, int age)
+    {
+        this.name = name;
+        this.email = username;
+        this.age = age;
+        
     }
 }
